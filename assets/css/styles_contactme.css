@@ -1,0 +1,187 @@
+#img1{
+    width: 60vw;
+    position: relative;
+    left: 37vw;
+    top: 3vw;
+}
+.bg_gradient2{
+    width: 98.7vw;
+    height: 8vw;
+    background: linear-gradient(180deg,black,transparent);
+}
+#nav1{
+    position: absolute;
+    right: 0;
+    margin: 2vw;
+}
+#nav1>a{
+    position: relative;
+    padding: 0 15px;
+    text-decoration: none;
+    color: #dee2e6;
+}
+#nav1 a:hover{
+    color: #F86F03;
+}
+.facebook-raw{
+    width: 700px;
+    height: 65px;
+    background: linear-gradient(180deg,#0077b6 ,transparent);
+    border-radius: 45px;
+
+    position: absolute;
+    top: 120px;
+    left: 45px;
+    z-index: 20;
+}
+.facebook-raw >img {
+    width: 50px;
+    aspect-ratio: 1/1;
+    position: absolute;
+    left: 40px;
+    top: 7px;
+}
+.facebook-raw > a{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+
+    position: absolute;
+    left: 135px;
+    top: 10px;
+}
+.whatsapp-raw{
+    width: 700px;
+    height: 65px;
+    background: linear-gradient(180deg,#70e000 ,transparent);
+    border-radius: 45px;
+
+    position: absolute;
+    top: 220px;
+    left: 45px;
+    z-index: 20;
+}
+.whatsapp-raw >img {
+    width: 50px;
+    aspect-ratio: 1/1;
+    position: absolute;
+    left: 40px;
+    top: 7px;
+}
+.whatsapp-raw > a{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+
+    position: absolute;
+    left: 135px;
+    top: 10px;
+}
+.mail-raw{
+    width: 700px;
+    height: 65px;
+    background: linear-gradient(180deg,#ff7f11 ,transparent);
+    border-radius: 45px;
+
+    position: absolute;
+    top: 320px;
+    left: 45px;
+    z-index: 20;
+}
+.mail-raw >img {
+    width: 50px;
+    aspect-ratio: 1/1;
+    position: absolute;
+    left: 40px;
+    top: 7px;
+}
+.mail-raw > a{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+
+    position: absolute;
+    left: 135px;
+    top: 10px;
+}
+.twitter-raw{
+    width: 700px;
+    height: 65px;
+    background: linear-gradient(180deg,#49b6ff ,transparent);
+    border-radius: 45px;
+
+    position: absolute;
+    top: 420px;
+    left: 45px;
+    z-index: 20;
+}
+.twitter-raw >img {
+    width: 50px;
+    aspect-ratio: 1/1;
+    position: absolute;
+    left: 40px;
+    top: 7px;
+}
+.twitter-raw > a{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+
+    position: absolute;
+    left: 135px;
+    top: 10px;
+}
+.linkedin-raw{
+    width: 700px;
+    height: 65px;
+    background: linear-gradient(180deg,#4361ee ,transparent);
+    border-radius: 45px;
+
+    position: absolute;
+    top: 520px;
+    left: 45px;
+    z-index: 20;
+}
+.linkedin-raw >img {
+    width: 50px;
+    aspect-ratio: 1/1;
+    position: absolute;
+    left: 40px;
+    top: 7px;
+}
+.linkedin-raw > a{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+
+    position: absolute;
+    left: 135px;
+    top: 10px;
+}
+.instagram-raw{
+    width: 700px;
+    height: 65px;
+    background: linear-gradient(180deg,#BD44BF ,transparent);
+    border-radius: 45px;
+
+    position: absolute;
+    top: 620px;
+    left: 45px;
+    z-index: 20;
+}
+.instagram-raw >img {
+    width: 50px;
+    aspect-ratio: 1/1;
+    position: absolute;
+    left: 40px;
+    top: 7px;
+}
+.instagram-raw > a{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+
+    position: absolute;
+    left: 135px;
+    top: 10px;
+}

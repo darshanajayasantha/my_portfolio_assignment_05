@@ -1,0 +1,100 @@
+/*#assignments{*/
+/*    width: 100vw;*/
+/*    height:150vh;*/
+/*    position: relative;*/
+/*}*/
+.bg_gradient2{
+    width: 98.7vw;
+    height: 8vw;
+    background: linear-gradient(180deg,black,transparent);
+}
+#nav1{
+    position: absolute;
+    right: 0;
+    margin: 2vw;
+}
+#nav1>a{
+    position: relative;
+    padding: 0 15px;
+    text-decoration: none;
+    color: #dee2e6;
+}
+#nav1 a:hover{
+    color: #F86F03;
+}
+
+.img05{
+    width: 35vw;
+    height: 30vw;
+    border-radius: 5vw;
+
+    position: absolute;
+    top: 10vw;
+    left: 10vw;
+    z-index: 30;
+}
+
+.img06{
+    width: 35vw;
+    height: 30vw;
+    border-radius: 5vw;
+
+    position: absolute;
+    top: 50vw;
+    right: 10vw;
+    z-index: 30;
+}
+#as1{
+    font-size: 3vw;
+    position: relative;
+    left: 50vw;
+    width: fit-content;
+    height: fit-content;
+}
+#as2{
+    font-size: 1.8vw;
+    width: 35vw;
+    position: relative;
+    left: 50vw;
+    bottom: 3vw;
+}
+#as3{
+    position: relative;
+    left: 50vw;
+    bottom: 3vw;
+    font-size: 1.5vw;
+    border-radius: 1.5vw;
+    border: 1px solid darkblue;
+    color: white;
+    background-color: #49b6ff;
+    width: 13vw;
+}
+#as4{
+    font-size: 3vw;
+    position: relative;
+    top: 15vw;
+    left: 10vw;
+    width: fit-content;
+    height: fit-content;
+}
+#as5{
+    font-size: 1.8vw;
+    width: 35vw;
+    position: relative;
+    left: 10vw;
+    bottom: 3vw;
+    top: 13vw;
+}
+#as6{
+    position: relative;
+    left: 10vw;
+    bottom: 3vw;
+    font-size: 1.5vw;
+    border-radius: 1.5vw;
+    border: 1px solid darkblue;
+    color: white;
+    background-color: #49b6ff;
+    width: 13vw;
+    top: 13vw;
+}
+
